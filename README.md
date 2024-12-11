@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi 👋
 
 <p align="center">
+  <img src="images/cyber.jpg" alt="cyber" width="80" />
+  <br />
   <img src="https://img.shields.io/badge/APS-000000?logo=autodesk&logoColor=fff" />
   <img src="https://img.shields.io/badge/Revit_API-%2321759B?logo=autodeskrevit&logoColor=white" />
   <img src="https://img.shields.io/badge/WPF-0089D6" />
