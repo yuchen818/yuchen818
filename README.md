@@ -1,8 +1,6 @@
 ## Hi 👋
 
 <p align="center">
-  <img src="images/cyber.jpg" alt="cyber" width="80" />
-  <br />
   <img src="https://img.shields.io/badge/APS-000000?logo=autodesk&logoColor=fff" />
   <img src="https://img.shields.io/badge/Revit_API-%2321759B?logo=autodeskrevit&logoColor=white" />
   <img src="https://img.shields.io/badge/WPF-0089D6" />
@@ -16,6 +14,12 @@
     <a href="#">projects</a>
   </samp>
 </p>
+
+<div align="center">
+  <img src="images/cyber.jpg" alt="cyber" width="70" />
+  <img src="images/happy_cyber.jpg" alt="cyber" width="70" />
+  <img src="images/fat_cyber.jpg" alt="cyber" width="70" />
+</div>
 
 <!--
 **yuchen818/yuchen818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
