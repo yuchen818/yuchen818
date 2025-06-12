@@ -10,15 +10,19 @@
   👨🏽‍🚀🚀🐶🌟
   <br />
   <samp>
-    <a href="#">about</a> .
-    <a href="#">projects</a>
+    <a href="#">about</a>
+    . <a href="#">projects</a>
+    . <a href="https://github.com/ce-s-collective">ce</a>
+    <!-- . <a href="#">ecosystem</a> -->
   </samp>
 </p>
 
 <div align="center">
   <img src="images/cyber.jpg" alt="cyber" width="70" />
+  <img src="images/cyber_2.jpg" alt="cyber" width="70" />
   <img src="images/happy_cyber.jpg" alt="cyber" width="70" />
   <img src="images/fat_cyber.jpg" alt="cyber" width="70" />
+  <img src="images/cyber_1.jpg" alt="cyber" width="70" />
 </div>
 
 <!--
