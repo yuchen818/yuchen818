@@ -10,8 +10,8 @@
   👨🏽‍🚀🚀🐶🌟
   <br />
   <samp>
-    <a href="#">about</a>
-    . <a href="#">projects</a>
+    <a href="https://yuchen.vercel.app/">about</a>
+    . <a href="https://yuchen.vercel.app/about">projects</a>
     . <a href="https://github.com/ce-s-collective">ce</a>
     <!-- . <a href="#">ecosystem</a> -->
   </samp>
