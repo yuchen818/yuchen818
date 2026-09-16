@@ -7,23 +7,24 @@
   <img src="https://img.shields.io/badge/Vue-4FC08D" />
   <img src="https://img.shields.io/badge/ExpressJS-FFC517" />
   <br />
-  👨🏽‍🚀🚀🐶🌟
+  👨🏽‍🚀🚀🐶🧑🏻‍❤️‍👩🏻🌻
   <br />
   <samp>
     <a href="#">about</a>
     . <a href="#">projects</a>
     . <a href="https://github.com/ce-s-collective">ce</a>
+    . <a href="https://yu-photos.vercel.app/albums">snippets of life</a>
     <!-- . <a href="#">ecosystem</a> -->
   </samp>
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="images/cyber.jpg" alt="cyber" width="70" />
   <img src="images/cyber_2.jpg" alt="cyber" width="70" />
   <img src="images/happy_cyber.jpg" alt="cyber" width="70" />
   <img src="images/fat_cyber.jpg" alt="cyber" width="70" />
   <img src="images/cyber_1.jpg" alt="cyber" width="70" />
-</div>
+</div> -->
 
 <!--
 **yuchen818/yuchen818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
