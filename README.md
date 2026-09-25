@@ -10,7 +10,7 @@
   👨🏽‍🚀🚀🐶🧑🏻‍❤️‍👩🏻🌻
   <br />
   <samp>
-    <a href="https://yuchen.vercel.app/">about</a>
+    <a href="https://yuchen.vercel.app/">cv</a>
     . <a href="https://yuchen.vercel.app/about">projects</a>
     . <a href="https://github.com/ce-s-collective">ce</a>
     . <a href="https://yu-photos.vercel.app/albums">snippets of life</a>
