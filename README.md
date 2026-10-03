@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/WPF-0089D6" />
   <img src="https://img.shields.io/badge/Vue-4FC08D" />
   <img src="https://img.shields.io/badge/ExpressJS-FFC517" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b?logo=mongodb&logoColor=white" />
   <br />
   👨🏽‍🚀🚀🐶🧑🏻‍❤️‍👩🏻🌻
   <br />
